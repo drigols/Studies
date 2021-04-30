@@ -84,7 +84,7 @@
 ---
 
  - __BONUS - (Thinking outside the box):__
-   - [Electrician](modules/electrician)
+   - [x](#)
 
 ---
 
