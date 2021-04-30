@@ -1,0 +1,32 @@
+{
+  "name": "javascript-codes",
+  "version": "1.0.0",
+  "description": "JavaScript Code Samples.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install eslint husky --save-dev",
+    "lint": "./node_modules/.bin/eslint *.js/../",
+    "prepush": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigoleite89/studies/blob/master/modules/javascript-codes"
+  },
+  "keywords": [
+    "es6",
+    "JavaScript",
+    "Features"
+  ],
+  "author": "drigols <drigols.creative@gmail.com> (https://drigols.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigoleite89/studies/issues"
+  },
+  "homepage": "https://github.com/rodrigoleite89/studies/blob/master/modules/javascript-codes",
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "husky": "^0.14.3"
+  }
+}
