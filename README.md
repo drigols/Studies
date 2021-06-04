@@ -85,4 +85,9 @@
 
 ---
 
+ - __BONUS:__
+   - [Fundamentos de Eletricidade & Manutenção Elétrica (Teoria & Prática)](modules/electrician)
+
+---
+
 **Rodrigo Leite -** *Software Engineer*

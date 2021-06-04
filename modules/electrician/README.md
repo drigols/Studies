@@ -1,6 +1,4 @@
-# Eletricidade - Teoria & Prática
-
-> Meus estudos relacionados a Eletricidade & Manutenção elétrica.
+# Fundamentos de Eletricidade & Manutenção Elétrica (Teoria & Prática)
 
 ![title](res/electrician-logo.gif)
 
